@@ -63,7 +63,7 @@ const Header = () => {
                         <CardMedia
                             component="img"
                             sx={{width: 170, height: 250}}
-                            src="/src/assets/img_3.png"
+                            src="/assets/img_3.png"
                             alt="Live from space album cover"
                         />
                     </Card>
@@ -82,7 +82,7 @@ const Header = () => {
                                     component="img"
                                     height="140"
                                     width="250"
-                                    image="/src/assets/img_2.png"
+                                    image="/assets/img_2.png"
                                     alt="green iguana"
                                     sx={{position: 'relative', overflow: 'visible', width: 150}}
                                 />
@@ -120,7 +120,7 @@ const Header = () => {
                                     component="img"
                                     height="140"
                                     width="250"
-                                    image="/src/assets/img_1.png"
+                                    image="/assets/img_1.png"
                                     alt="green iguana"
                                     sx={{position: 'relative', overflow: 'visible', width: 150, display: 'inline'}}
                                 />
@@ -158,7 +158,7 @@ const Header = () => {
                                     component="img"
                                     height="140"
                                     width="250"
-                                    image="/src/assets/img.png"
+                                    image="/assets/img.png"
                                     alt="green iguana"
                                     sx={{position: 'relative', overflow: 'visible', width: 70, display: 'inline'}}
                                 />
